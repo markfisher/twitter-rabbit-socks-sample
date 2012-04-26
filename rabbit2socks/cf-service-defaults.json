@@ -1,0 +1,9 @@
+{
+  "twitter-rabbit": {
+    "hostname": "localhost",
+    "port": 5672,
+    "username": "guest",
+    "password": "guest",
+    "url": "amqp://localhost"
+  }
+}
